@@ -48,4 +48,3 @@ int main() {
 | Linkedin | [Ссылка](https://www.linkedin.com) | 3 часа |
 | WhatsApp | [Ссылка](tel:+77769924666) | 30 минут |
 | Telegram | [Ссылка](tel:+77769924666) | 5 минут |
----
